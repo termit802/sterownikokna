@@ -1,0 +1,8 @@
+C:\Users\Maciek\Documents\Visual Studio 2015\Projects\ZamykanieOkna\bin\Debug\ZamykanieOkna.exe
+C:\Users\Maciek\Documents\Visual Studio 2015\Projects\ZamykanieOkna\bin\Debug\ZamykanieOkna.pdb
+C:\Users\Maciek\Documents\Visual Studio 2015\Projects\ZamykanieOkna\obj\x86\Debug\ZamykanieOkna.csprojResolveAssemblyReference.cache
+C:\Users\Maciek\Documents\Visual Studio 2015\Projects\ZamykanieOkna\obj\x86\Debug\ZamykanieOkna.Form1.resources
+C:\Users\Maciek\Documents\Visual Studio 2015\Projects\ZamykanieOkna\obj\x86\Debug\ZamykanieOkna.Properties.Resources.resources
+C:\Users\Maciek\Documents\Visual Studio 2015\Projects\ZamykanieOkna\obj\x86\Debug\ZamykanieOkna.csproj.GenerateResource.Cache
+C:\Users\Maciek\Documents\Visual Studio 2015\Projects\ZamykanieOkna\obj\x86\Debug\ZamykanieOkna.exe
+C:\Users\Maciek\Documents\Visual Studio 2015\Projects\ZamykanieOkna\obj\x86\Debug\ZamykanieOkna.pdb
